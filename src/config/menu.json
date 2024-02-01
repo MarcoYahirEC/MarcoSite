@@ -1,19 +1,19 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Hogar",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Acerda de mi",
       "url": "/about"
     },
     {
-      "name": "Tags",
+      "name": "Etiquetas",
       "url": "/tags"
     },
     {
-      "name": "Categories",
+      "name": "Categorias",
       "url": "/categories"
     }
   ]
