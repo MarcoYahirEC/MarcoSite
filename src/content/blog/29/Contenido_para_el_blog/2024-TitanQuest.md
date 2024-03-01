@@ -1,11 +1,11 @@
 ---
-title: 'Titan Quest ⚔'
-description: 'Un juego de mundo abierto.'
-pubDate: '2024-02-29T10:19:34.123Z'
-heroImage: '/images2.jpg'
-categories: ['Animales','perros']
-tags: ['Perros','pequeños','medianos','huskys','salchichas','doberman']
+title: 'League of Legends'
+description: 'es un juego en equipo con más de 140 campeones con los que realizar jugadas épicas.'
+pubDate: '2024-02-29T10:25:34.123Z'
+heroImage: '/LoL2.jpg'
+categories: ['MOBA','Videojuego de rol de acción']
+tags: ['Guerreros','Asesinos','Magos','Soporte']
 author: '["Marco Yahir"]'
 ---
 
-Estos cachorros son bueno ideales para lo solitario y de buen apoyo o para abrazarlos.
+es un videojuego multijugador de arena de batalla en línea desarrollado y publicado por Riot Games. Inspirándose en Defense of the Ancients, un mapa personalizado para Warcraft III, los fundadores de Riot buscaron desarrollar un juego independiente del mismo género.
