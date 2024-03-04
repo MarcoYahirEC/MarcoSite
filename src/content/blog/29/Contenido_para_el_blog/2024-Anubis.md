@@ -1,5 +1,5 @@
 ---
-title: 'Anudis  (Señor de los muertos)'
+title: 'Anubis  (Señor de los muertos)'
 description: ' Anubis como guardián de la necrópolis, bajo la forma de cánido, no fue la única función del dios. '
 pubDate: '2024-02-29T12:30:34.123Z'
 heroImage: '/anubis.jpg'
