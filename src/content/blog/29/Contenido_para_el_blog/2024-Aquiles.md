@@ -2,7 +2,7 @@
 title: 'Aquiles (Heroe de Grecia)'
 description: 'Aquiles​ o Aquileo​ fue un héroe de la guerra de Troya y uno de los principales protagonistas y más grandes guerreros de la Ilíada de Homero. '
 pubDate: '2024-02-29T12:50:34.123Z'
-heroImage: '/aquiles.jpg'
+heroImage: '/Aquiles.jpg'
 categories: ['Vida Real','Mitologico']
 tags: ['Humano','Heroe']
 author: '["Marco Yahir"]'
