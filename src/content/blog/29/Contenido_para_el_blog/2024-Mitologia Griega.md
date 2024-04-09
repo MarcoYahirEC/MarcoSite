@@ -3,7 +3,7 @@ title: 'Mitologia Griega'
 description: 'es el conjunto de mitos y leyendas pertenecientes a los antiguos griegos que tratan de sus dioses y héroes, la naturaleza del mundo, los orígenes y el significado de sus propios cultos y prácticas rituales.'
 pubDate: '2024-02-29T10:40:34.123Z'
 heroImage: '/mitologia griega.jpg'
-categories: ['Misterio','Mitologico','Dioses','Heroes','Monstruos']
+categories: ['Misterio','Mitologico','Dioses','Heroes']
 tags: ['Minotauros','Esqueletos','Arpias','Humanos','Gargonas']
 author: '["Marco Yahir"]'
 ---

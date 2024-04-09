@@ -4,7 +4,7 @@ description: 'El centauro es un híbrido de hombre y de caballo, compuesto de un
 pubDate: '2024-02-29T10:30:34.123Z'
 heroImage: '/centauro.jpg'
 categories: ['Monstruo','Mitologico']
-tags: ['SemiMonstruo','Bestia']
+tags: ['SemiBestia','Bestia']
 author: '["Marco Yahir"]'
 ---
 

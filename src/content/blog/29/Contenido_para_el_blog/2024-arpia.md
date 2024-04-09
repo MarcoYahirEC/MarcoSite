@@ -4,7 +4,7 @@ description: 'Una arpía, o harpía, es un monstruo mitad mujer mitad pájaro de
 pubDate: '2024-02-29T12:50:34.123Z'
 heroImage: '/arpia.jpg'
 categories: ['monstruo','Mitologico']
-tags: ['semibestia','humanoide']
+tags: ['SemiBestia','humanoide']
 author: '["Marco Yahir"]'
 ---
 
