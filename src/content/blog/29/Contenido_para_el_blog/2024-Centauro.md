@@ -2,10 +2,14 @@
 title: 'Centauro'
 description: 'El centauro es un híbrido de hombre y de caballo, compuesto de un torso humano soldado a una grupa de caballo: es un hombre hipópodo o un caballo androcéfalo que aunque cuadrúpedo, posee dos brazos con los que utiliza el arco.'
 pubDate: '2024-02-29T10:30:34.123Z'
-heroImage: '/minotauro.jpg'
+heroImage: '/centauro.jpg'
 categories: ['Monstruo','Mitologico']
 tags: ['SemiMonstruo','Bestia']
 author: '["Marco Yahir"]'
 ---
 
-El Minotauro (del griego Μινώταυρος [Minótauros]) es un monstruo de la mitología griega, con cuerpo de hombre y cabeza de toro. Su nombre significa "Toro de Minos", y era hijo de Pasífae y el Toro de Creta. Fue encerrado en un laberinto diseñado por el artesano Dédalo, hecho expresamente para retenerlo,1​ ubicado en la ciudad de Cnosos en la isla de Creta. Durante muchos años, siete hombres y otras siete mujeres eran llevados al laberinto como sacrificio para ser el alimento de la bestia, hasta que la vida de este terminó a manos del héroe Teseo. Los catorce jóvenes eran internados en el laberinto, donde vagaban perdidos hasta ser encontrados por el Minotauro. El mito tiene su versión más completa en la Biblioteca mitológica de Apolodoro.
+El centauro es un híbrido de hombre y de caballo, compuesto de un torso humano soldado a una grupa de caballo: es un hombre hipópodo o un caballo androcéfalo que aunque cuadrúpedo, posee dos brazos con los que utiliza el arco. Este personaje fantástico, semihumano, aparece también entre los signos del Zodíaco con el nombre de Sagitario y disparando a Capricornio.
+
+El origen de la figura del centauro se sitúa en el siglo IV a.C., heredado de la mitología clásica, este ser fabuloso nace de Centauro y las yeguas de Magnesia, y ya está presente en la Odisea de Homero, donde se resalta su sensualidad y violencia asociada a su carácter masculino y activo. Por lo general, luchan contra los héroes como Heracles en disputas relacionadas con las mujeres. En contraposición a esta imagen del centauro malvado, aparece también en el mundo clásico la figura de Quirón, el más justo de su especie y maestro de Aquiles por encargo de su padre Peleo.
+
+No es extraño encontrarse a centauros luchado por un animal o entre sí, pero por lo general en el románico, la figura más habitual es la del centauro-sagitario del zodíaco, solo y armado con su arco a punto de disparar una flecha. En la mitología griega se le atribuye el carácter de fogosidad y violencia ciega, caracteres que serán heredados por el simbolismo cristiano, llegando incluso a encarnar al propio demonio. En la Edad Media se convirtió en un símbolo de fuerza incontrolada, violencia sexual y lujuria. En ocasiones las flechas del centauro se dirigen a personajes o seres de signo negativo, como arpías o dragones, por lo que se interpreta como un cambio de signo para convertirse en un elemento positivo de lucha contra el pecado.
