@@ -3,7 +3,7 @@ title: 'Arpia'
 description: 'Una arpía, o harpía, es un monstruo mitad mujer mitad pájaro de la mitología griega. Conocidas como los "sabuesos de Zeus", era la personificación de los vientos de las tormentas y estaban a las órdenes de Zeus, que las enviaba durante las tormentas a cumplir sus deseos.'
 pubDate: '2024-02-29T12:50:34.123Z'
 heroImage: '/arpia.jpg'
-categories: ['monstruo','Mitologico']
+categories: ['Monstruo','Mitologico']
 tags: ['SemiBestia','humanoide']
 author: '["Marco Yahir"]'
 ---
